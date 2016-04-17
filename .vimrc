@@ -10,8 +10,8 @@ syntax enable
 syntax on
 
 set cursorline
-hi CursorLine cterm=NONE ctermbg=darkred ctermfg=white
-hi CursorColumn cterm=NONE ctermbg=darkred ctermfg=white
+hi CursorLine cterm=NONE ctermbg=gray ctermfg=black
+"hi CursorColumn cterm=NONE ctermbg=darkred ctermfg=white
 
 set tabstop=4
 set softtabstop=4
